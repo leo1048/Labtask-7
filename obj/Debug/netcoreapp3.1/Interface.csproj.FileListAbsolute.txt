@@ -1,0 +1,4 @@
+C:\Users\Leo Mohon\source\repos\labtask 7\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+C:\Users\Leo Mohon\source\repos\labtask 7\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\Leo Mohon\source\repos\labtask 7\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\Leo Mohon\source\repos\labtask 7\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
